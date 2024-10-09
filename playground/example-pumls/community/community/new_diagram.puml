@@ -1,0 +1,73 @@
+@startmindmap
+*[#000000] <color:#FFFFFF><&infinity> Argument Map
+**[#2196F3] <color:#BBDEFB><&comment-square> Vergroten van Flexibiliteit en Wendbaarheid
+
+***[#4CAF50] <color:#C8E6C9><&check> Modulaire Chipontwerpen
+****[#4CAF50] <color:#C8E6C9><&check> Voordelen
+*****[#8BC34A] <color:#DCEDC8><&zoom-in> Snellere productontwikkeling
+*****[#8BC34A] <color:#DCEDC8><&zoom-in> Gebruik van componenten van derden
+*****[#8BC34A] <color:#DCEDC8><&zoom-in> Risicobeperking
+****[#F44336] <color:#FFCDD2><&x> Nadelen
+*****[#FF9800] <color:#FFE0B2><&zoom-out> Complexiteit in integratie
+*****[#FF9800] <color:#FFE0B2><&zoom-out> Verlies van controle over onderdelen
+
+***[#4CAF50] <color:#C8E6C9><&check> Agile Productontwikkeling
+****[#4CAF50] <color:#C8E6C9><&check> Voordelen
+*****[#8BC34A] <color:#DCEDC8><&zoom-in> Snel reageren op marktveranderingen
+*****[#8BC34A] <color:#DCEDC8><&zoom-in> Prototyping en testen
+****[#F44336] <color:#FFCDD2><&x> Nadelen
+*****[#FF9800] <color:#FFE0B2><&zoom-out> Cultuurverandering nodig
+*****[#FF9800] <color:#FFE0B2><&zoom-out> Risico op instabiliteit
+
+***[#4CAF50] <color:#C8E6C9><&check> Decentrale Besluitvorming
+****[#4CAF50] <color:#C8E6C9><&check> Voordelen
+*****[#8BC34A] <color:#DCEDC8><&zoom-in> Snellere besluitvorming
+*****[#8BC34A] <color:#DCEDC8><&zoom-in> Innovatie vanuit de teams
+****[#F44336] <color:#FFCDD2><&x> Nadelen
+*****[#FF9800] <color:#FFE0B2><&zoom-out> Verlies van uniformiteit
+*****[#FF9800] <color:#FFE0B2><&zoom-out> Moeilijker te coördineren
+
+***[#4CAF50] <color:#C8E6C9><&check> Geautomatiseerde Productielijnen
+****[#4CAF50] <color:#C8E6C9><&check> Voordelen
+*****[#8BC34A] <color:#DCEDC8><&zoom-in> Lagere productiekosten
+*****[#8BC34A] <color:#DCEDC8><&zoom-in> Snellere wisselingen in productie
+****[#F44336] <color:#FFCDD2><&x> Nadelen
+*****[#FF9800] <color:#FFE0B2><&zoom-out> Hoge investeringskosten
+*****[#FF9800] <color:#FFE0B2><&zoom-out> Verminderde werkgelegenheid
+
+***[#4CAF50] <color:#C8E6C9><&check> Samenwerken met Derde Partijen
+****[#4CAF50] <color:#C8E6C9><&check> Outsourcing naar Externe Fabrikanten (zoals TSMC)
+*****[#4CAF50] <color:#C8E6C9><&check> Voordelen
+******[#8BC34A] <color:#DCEDC8><&zoom-in> Toegang tot de nieuwste technologieën
+******[#8BC34A] <color:#DCEDC8><&zoom-in> Lagere kapitaalinvesteringen
+*****[#F44336] <color:#FFCDD2><&x> Nadelen
+******[#FF9800] <color:#FFE0B2><&zoom-out> Afhankelijkheid van externe partijen
+******[#FF9800] <color:#FFE0B2><&zoom-out> Minder controle over productieprocessen
+
+****[#4CAF50] <color:#C8E6C9><&check> Joint Ventures en Co-ontwikkeling
+*****[#4CAF50] <color:#C8E6C9><&check> Voordelen
+******[#8BC34A] <color:#DCEDC8><&zoom-in> Kostenbesparing
+******[#8BC34A] <color:#DCEDC8><&zoom-in> Risicodeling
+******[#8BC34A] <color:#DCEDC8><&zoom-in> Toegang tot externe expertise
+*****[#F44336] <color:#FFCDD2><&x> Nadelen
+******[#FF9800] <color:#FFE0B2><&zoom-out> Complexiteit in samenwerking
+******[#FF9800] <color:#FFE0B2><&zoom-out> Verlies van intellectueel eigendom
+
+****[#4CAF50] <color:#C8E6C9><&check> Licentiemodellen voor Productie
+*****[#4CAF50] <color:#C8E6C9><&check> Voordelen
+******[#8BC34A] <color:#DCEDC8><&zoom-in> Schaalbaarheid
+******[#8BC34A] <color:#DCEDC8><&zoom-in> Flexibiliteit
+*****[#F44336] <color:#FFCDD2><&x> Nadelen
+******[#FF9800] <color:#FFE0B2><&zoom-out> Concurrentie
+
+***[#4CAF50] <color:#C8E6C9><&check> Flexibele Toeleveringsketen
+****[#4CAF50] <color:#C8E6C9><&check> Voordelen
+*****[#8BC34A] <color:#DCEDC8><&zoom-in> Risicospreiding
+*****[#8BC34A] <color:#DCEDC8><&zoom-in> Snelle aanpassing
+****[#F44336] <color:#FFCDD2><&x> Nadelen
+*****[#FF9800] <color:#FFE0B2><&zoom-out> Complexiteit in logistiek
+*****[#FF9800] <color:#FFE0B2><&zoom-out> Verhoogde operationele kosten
+@endmindmap
+@startuml
+' Copy your diagram content here
+@enduml
